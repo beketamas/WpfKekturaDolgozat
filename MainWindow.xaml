@@ -1,0 +1,61 @@
+﻿<Window x:Class="DolgozatWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DolgozatWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Column="0" x:Name="dgTablauzat" IsReadOnly="True" AutoGenerateColumns="False" Margin="10,10,0,0" Grid.RowSpan="4">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Túra neve" Binding="{Binding Nev}"  MinWidth="90" Width="*"/>
+                <DataGridTextColumn Header="Túra távolsága" Binding="{Binding Tavolsag}" MinWidth="40" Width="*"/>
+                <DataGridTextColumn Header="Tengerszint feletti m." Binding="{Binding TengerszintFeletti}" MinWidth="40" Width="*"/>
+                <DataGridTextColumn Header="Időtartam" Binding="{Binding IdoTartam}" MinWidth="40" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Column="1"
+                x:Name="btnSzamlalo"
+                Content="Állomány szám" Click="btnSzamlalo_Click" Margin="10,22,283,22"/>
+        <Label x:Name="lblAllomanySzam" Height="50"
+               Grid.Column="1"
+               Background="Aqua" Margin="175,22,88,23"/>
+
+        <TextBox Grid.Column="1" Grid.Row="1" x:Name="tbErtek" Margin="10,4,329,63"/>
+        <Button Grid.Column="1" Grid.Row="1" x:Name="btnKereses"
+                Content="Utak mutatása"
+                Click="btnKereses_Click" Margin="9,46,283,15"/>
+        <Label Grid.Column="1" x:Name="lblEredmeny" 
+               Grid.Row="1" Height="50" Margin="175,29,45,15"
+               Background="Aqua"/>
+        <Button Grid.Column="1"
+                Grid.Row="2"
+                x:Name="btnGomb" Margin="12,54,233,54" Click="btnGomb_Click"
+                Content="Pilis nevű utak átlag ideje"/>
+        <Label Grid.Column="1"
+               Grid.Row="2"
+               Height="50" Margin="245,50,20,50"
+               x:Name="lbTeljesitesiAtlag"
+               Background="Aqua"/>
+
+        <Button Grid.Column="1" Grid.Row="3" Margin="12,10,268,35"
+                x:Name="btnLeghosszabb" Click="btnLeghosszabb_Click"
+                Content="Leghosszabb túra"/>
+        <Label x:Name="lblLegosszabb"
+               Grid.Column="1"
+               Grid.Row="3"
+               Height="50" Margin="200,10,20,35"
+               Background="Aqua"/>
+    </Grid>
+</Window>

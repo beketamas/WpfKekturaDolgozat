@@ -1,0 +1,92 @@
+Írottkő - Hét-forrás;9,5;150;158
+Hét-forrás - Kőszeg;5;100;85
+Kőszeg - Tömörd;13,8;90;216
+Tömörd - Ablánc malom;9;40;139
+Ablánc malom - Szeleste;11,2;40;172
+Szeleste - Bögöt;9;10;136
+Bögöt - Csényeújmajor;8,2;0;123
+Csényeújmajor - Sárvár v.áll.;4,5;0;68
+Sárvár v.áll. - Gérce;11,5;40;176
+Gérce - Rózsáskerti eh.;3;30;48
+Rózsáskerti eh. - Hidegkúti eh.;4,5;20;70
+Hidegkúti eh. - Káld;6,4;30;99
+Káld - Hosszúpereszteg;11,2;60;174
+Hosszúpereszteg - Szajki eh.;6,1;10;92
+Szajki eh. - Ötvös;14,5;20;220
+Ötvös - Kisvásárhely;8,9;50;138
+Kisvásárhely - Sümeg v.áll.;5,8;20;89
+Keszthely - Vállus;12;250;205
+Vállus - Lesenceistvánd;6,8;220;124
+Lesenceistvánd - Tapolca;6,9;0;104
+Tapolca - Szt.Györgyh.th.;5,2;190;97
+Szt.Györgyh.th. - Szigliget;7,3;120;122
+Szigliget - B.tördemic v.áll.;3,2;20;50
+B.tördemic v.áll. - Káptalantóti;10,8;420;204
+Káptalantóti - Szentbékkálla;9,3;260;166
+Szentbákkálla - Balatonhenye;6,8;300;132
+Balatonhenye - Csicsói eh.;6,1;220;113
+Csicsói eh. - Nagyvázsony;8;60;126
+Nagyvázsony - Kabhegy eh.;10,4;330;188
+Kabhegy - Úrkút;4;20;62
+Úrkút - Városlőd-Kislőd v.áll.;7,8;50;122
+Városlőd-Kislőd v.áll. - Németbánya;11,6;180;192
+Németbánya - Bakonybél;8,4;160;142
+Bakonybél - Kőrishegy;6,7;510;152
+Kőrishegy - Borzavár;6;60;96
+Borzavár - Zirc;6;110;101
+Zirc - Bakonynána;9,5;80;150
+Bakonynána - Jásd;5;80;83
+Jásd - Csőszpuszta;4,2;350;98
+Csőszpuszta - Kisgyón;6,9;30;106
+Kisgyón - Bakonykúti;11,5;200;190
+Bakonykúti - Fehérvárcsurgó;8;250;145
+Fehérvárcsurgó - Csókakő vmh.;12;80;188
+Szárliget v.áll. - Somlyóvár;11,7;320;208
+Somlyóvár - Koldusszállás;8,4;80;134
+Koldusszállás - Bányahegyi eh.;10,1;400;192
+Bányahegyi eh. - Gerecse üdülő;4,7;170;88
+Gerecse üdülő - Pusztamarót;2,4;40;40
+Pusztamarót - Péliföldszentkereszt;8,6;120;141
+Péliföldszentkereszt - Mogyorósbánya;5,2;260;104
+Mogyorósbánya - Tokodi bánya;2,9;70;50
+Tokodi bánya - Dorog v.áll.;13,2;490;247
+Dorog v.áll. - Kesztölc (Ny-i vége);4,5;70;74
+Kesztölc - Klastrompuszta th.;5,9;200;200
+Klastrompuszta th. - Piliscsév;3;50;50
+Piliscsév - Piliscsaba v.áll.;5,2;120;120
+Piliscsaba v.áll. - Zsíroshegyi th.;11,9;420;220
+Zsíroshegyi th. - Hűvösvölgyi Úttörővasút áll.;9,8;60;153
+Hűvösvölgyi Úttörővasút áll. - Hármashatárhegy;8;350;155
+Hármashatárhegy - Csúcshegyi th.;3,5;100;62
+Csúcshegy - Bécsi út (18 sz. busz áll.);2,4;0;36
+Bécsi út (18 sz. busz áll.) - Stromfeld A. th.;6,3;480;142
+Stromfeld A. th. - Pilisszentkereszt;12;170;197
+Pilisszentkereszt - Dobogókő th.;4;350;95
+Dobogókő th. - Sikáros eh.;6;50;95
+Sikáros eh. - Pilisszentlászló;3,6;100;64
+Pilisszentlászló - Papréti eh.;3;140;59
+Papréti eh. - Nagy-Villám th.;8,8;220;154
+Nagy-Villám th. - Visegrád (komp);2,8;0;42
+Nagymaros (komp) - Törökmezői th.;10;480;198
+Törökmezői th. - Kisinóci th.;7,9;190;138
+Kisinóci th. - Nagyhideghegyi th.;5,7;610;146
+Nagyhideghegyi th. - Nógrád v.áll.;14,5;330;250
+Mátraverebély v.mh. - Ágasvár th.;7,4;550;166
+Ágasvár th. - Mátraszentistván;4;130;73
+Mátraszentistván - Galyatető;4,2;280;91
+Galyatető - Nyírjesi eh.;4,8;20;74
+Nyírjesi eh. - Vörösmarty th.;3,5;140;66
+Vörösmarty th. - Mátraháza;2;50;35
+Mátraháza - Kékestető;2,4;330;69
+Kékestető - Hármashatár eh.;5,6;60;90
+Hármashatár eh. - Gazoskő;8,9;530;186
+Gazoskő - Sirok v.mh.;4,8;50;77
+Sirok v.mh. - Rozsnak pszt. eh.;7,5;190;132
+Rozsnak pszt. eh. - Szarvaskő v.áll.;10;150;165
+Szarvaskő v.áll. - Telekessy eh.;7,4;380;149
+Telekessy eh. - Cementgyár vmh.;3,6;60;60
+Cementgyár vmh. - Cserepeskői bg.;8;600;180
+Cserepeskői bg. - Bánkút;9,6;480;192
+Putnok v.áll. - Kelemér;10,7;220;182
+Kelemér - Zádorfalva;7,5;80;120
+Zádorfalva - Aggtelek bg.;11,8;180;195

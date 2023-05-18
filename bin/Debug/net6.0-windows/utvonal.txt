@@ -1,0 +1,92 @@
+Írottkő - Hét-forrás;9,5;150;Közepes
+Hét-forrás - Kőszeg;5;100;Könnyű
+Kőszeg - Tömörd;13,8;90;Nehéz
+Tömörd - Ablánc malom;9;40;Közepes
+Ablánc malom - Szeleste;11,2;40;Nehéz
+Szeleste - Bögöt;9;10;Közepes
+Bögöt - Csényeújmajor;8,2;0;Közepes
+Csényeújmajor - Sárvár v.áll.;4,5;0;Könnyű
+Sárvár v.áll. - Gérce;11,5;40;Nehéz
+Gérce - Rózsáskerti eh.;3;30;Könnyű
+Rózsáskerti eh. - Hidegkúti eh.;4,5;20;Könnyű
+Hidegkúti eh. - Káld;6,4;30;Közepes
+Káld - Hosszúpereszteg;11,2;60;Nehéz
+Hosszúpereszteg - Szajki eh.;6,1;10;Közepes
+Szajki eh. - Ötvös;14,5;20;Nehéz
+Ötvös - Kisvásárhely;8,9;50;Közepes
+Kisvásárhely - Sümeg v.áll.;5,8;20;Közepes
+Keszthely - Vállus;12;250;Nehéz
+Vállus - Lesenceistvánd;6,8;220;Közepes
+Lesenceistvánd - Tapolca;6,9;0;Közepes
+Tapolca - Szt.Györgyh.th.;5,2;190;Közepes
+Szt.Györgyh.th. - Szigliget;7,3;120;Közepes
+Szigliget - B.tördemic v.áll.;3,2;20;Könnyű
+B.tördemic v.áll. - Káptalantóti;10,8;420;Nehéz
+Káptalantóti - Szentbékkálla;9,3;260;Közepes
+Szentbákkálla - Balatonhenye;6,8;300;Közepes
+Balatonhenye - Csicsói eh.;6,1;220;Közepes
+Csicsói eh. - Nagyvázsony;8;60;Közepes
+Nagyvázsony - Kabhegy eh.;10,4;330;Nehéz
+Kabhegy - Úrkút;4;20;Könnyű
+Úrkút - Városlőd-Kislőd v.áll.;7,8;50;Közepes
+Városlőd-Kislőd v.áll. - Németbánya;11,6;180;Nehéz
+Németbánya - Bakonybél;8,4;160;Közepes
+Bakonybél - Kőrishegy;6,7;510;Közepes
+Kőrishegy - Borzavár;6;60;Közepes
+Borzavár - Zirc;6;110;Közepes
+Zirc - Bakonynána;9,5;80;Közepes
+Bakonynána - Jásd;5;80;Könnyű
+Jásd - Csőszpuszta;4,2;350;Könnyű
+Csőszpuszta - Kisgyón;6,9;30;Közepes
+Kisgyón - Bakonykúti;11,5;200;Nehéz
+Bakonykúti - Fehérvárcsurgó;8;250;Közepes
+Fehérvárcsurgó - Csókakő vmh.;12;80;Nehéz
+Szárliget v.áll. - Somlyóvár;11,7;320;Nehéz
+Somlyóvár - Koldusszállás;8,4;80;Közepes
+Koldusszállás - Bányahegyi eh.;10,1;400;Nehéz
+Bányahegyi eh. - Gerecse üdülő;4,7;170;Könnyű
+Gerecse üdülő - Pusztamarót;2,4;40;Könnyű
+Pusztamarót - Péliföldszentkereszt;8,6;120;Közepes
+Péliföldszentkereszt - Mogyorósbánya;5,2;260;Közepes
+Mogyorósbánya - Tokodi bánya;2,9;70;Könnyű
+Tokodi bánya - Dorog v.áll.;13,2;490;Nehéz
+Dorog v.áll. - Kesztölc (Ny-i vége);4,5;70;Könnyű
+Kesztölc - Klastrompuszta th.;5,9;200;Közepes
+Klastrompuszta th. - Piliscsév;3;50;Könnyű
+Piliscsév - Piliscsaba v.áll.;5,2;120;Közepes
+Piliscsaba v.áll. - Zsíroshegyi th.;11,9;420;Nehéz
+Zsíroshegyi th. - Hűvösvölgyi Úttörővasút áll.;9,8;60;Közepes
+Hűvösvölgyi Úttörővasút áll. - Hármashatárhegy;8;350;Közepes
+Hármashatárhegy - Csúcshegyi th.;3,5;100;Könnyű
+Csúcshegy - Bécsi út (18 sz. busz áll.);2,4;0;Könnyű
+Bécsi út (18 sz. busz áll.) - Stromfeld A. th.;6,3;480;Közepes
+Stromfeld A. th. - Pilisszentkereszt;12;170;Nehéz
+Pilisszentkereszt - Dobogókő th.;4;350;Könnyű
+Dobogókő th. - Sikáros eh.;6;50;Közepes
+Sikáros eh. - Pilisszentlászló;3,6;100;Könnyű
+Pilisszentlászló - Papréti eh.;3;140;Könnyű
+Papréti eh. - Nagy-Villám th.;8,8;220;Közepes
+Nagy-Villám th. - Visegrád (komp);2,8;0;Könnyű
+Nagymaros (komp) - Törökmezői th.;10;480;
+Törökmezői th. - Kisinóci th.;7,9;190;Közepes
+Kisinóci th. - Nagyhideghegyi th.;5,7;610;Közepes
+Nagyhideghegyi th. - Nógrád v.áll.;14,5;330;Nehéz
+Mátraverebély v.mh. - Ágasvár th.;7,4;550;Közepes
+Ágasvár th. - Mátraszentistván;4;130;Könnyű
+Mátraszentistván - Galyatető;4,2;280;Könnyű
+Galyatető - Nyírjesi eh.;4,8;20;Könnyű
+Nyírjesi eh. - Vörösmarty th.;3,5;140;Könnyű
+Vörösmarty th. - Mátraháza;2;50;Könnyű
+Mátraháza - Kékestető;2,4;330;Könnyű
+Kékestető - Hármashatár eh.;5,6;60;Közepes
+Hármashatár eh. - Gazoskő;8,9;530;Közepes
+Gazoskő - Sirok v.mh.;4,8;50;Könnyű
+Sirok v.mh. - Rozsnak pszt. eh.;7,5;190;Közepes
+Rozsnak pszt. eh. - Szarvaskő v.áll.;10;150;
+Szarvaskő v.áll. - Telekessy eh.;7,4;380;Közepes
+Telekessy eh. - Cementgyár vmh.;3,6;60;Könnyű
+Cementgyár vmh. - Cserepeskői bg.;8;600;Közepes
+Cserepeskői bg. - Bánkút;9,6;480;Közepes
+Putnok v.áll. - Kelemér;10,7;220;Nehéz
+Kelemér - Zádorfalva;7,5;80;Közepes
+Zádorfalva - Aggtelek bg.;11,8;180;Nehéz
